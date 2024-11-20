@@ -1,6 +1,5 @@
 # Net-Opt-MTL
-一个应用于计算机视觉的多任务学习模型
-
+A Multi Task Learning Model Applied to Computer Vision
 ## Network Framework Diagram (VMSANEt)
 
 <p align="center">
