@@ -1,6 +1,6 @@
 # Net-Opt-MTL
 A Multi Task Learning Model Applied to Computer Vision
-## Network Framework Diagram (VMSANEt)
+## Network Framework Diagram (VMSANet)
 
 <p align="center">
   <img src="./VMSANet.png" width="700"/>
