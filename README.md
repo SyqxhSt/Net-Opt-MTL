@@ -86,7 +86,7 @@ tqdm==4.66.4
   python Single_task.py --task=semantic/depth/...
   ```
   
-- Other tasks learning:
+- Other multi-tasks learning:
   ```
   python model_name.py
   ```
