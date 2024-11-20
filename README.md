@@ -35,9 +35,9 @@ tqdm==4.66.4
 
 ## 2. Datasets
 
-* **CITYSCAPES**: The preprocessed (normalized) Cityscapes dataset
+* **CITYSCAPES**: The preprocessed (normalized) Cityscapes dataset. Click [Cityscape](https://www.dropbox.com/scl/fi/wfmmk8tjn631723e0ycwm/Cityscapes.zip?rlkey=eyjw0vg9l48yvg77g0hm69y7z&st=y40g2ivx&dl=0) to download.
   ```
-  <Cityscapes>/                     % Cityscapes dataset root
+  <Cityscapes>/                     % Cityscapes dataset root (128 × 256 × 3)
       |
       ├── train/
       |     ├── image/              % Input image
@@ -50,9 +50,9 @@ tqdm==4.66.4
             └── depth/              % Depth estimation label
   ```
 
-  * **Nyuv2**: Indoor scene dataset
+  * **Nyuv2**: Indoor scene dataset. Click [Nyuv2](https://www.dropbox.com/scl/fi/dgwxetgkfepnplsc3772n/Nyuv2.zip?rlkey=e3gi4m39efullrfhg73d7yp86&st=0ym91vu7&dl=0) to download.
   ```
-  <Nyuv2>/                          % Nyuv2 dataset root
+  <Nyuv2>/                          % Nyuv2 dataset root (288 × 384 × 3)
       |
       ├── train/
       |     ├── image/              % Input image
@@ -65,9 +65,9 @@ tqdm==4.66.4
             └── depth/              % Depth estimation label
   ```
 
-    * **KITTI**: Outdoor scene synthesis dataset
+    * **KITTI**: Outdoor scene synthesis dataset. Click [KITTI](https://www.dropbox.com/scl/fi/ivlwrv1bl197gfqvo8puh/KITTI.zip?rlkey=gpxmf0u4k97pxw9dp1b4ve2mj&st=rzwyvh1a&dl=0) to download.
   ```
-  <Nyuv2>/                          % KITTI dataset root
+  <Nyuv2>/                          % KITTI dataset root (128 × 256 × 3)
       |
       ├── train/
       |     ├── image/              % Input image
