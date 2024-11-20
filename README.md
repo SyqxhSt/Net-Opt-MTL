@@ -90,3 +90,4 @@ tqdm==4.66.4
   ```
   python model_name.py
   ```
+We also provide additional model downloads, including Cross-Stitch, MTRAN, Multi-Task, and Single-Task models. If needed, feel free to click [Other models](https://www.dropbox.com/scl/fi/y5je8fgfh3eq2gblbav84/Other_models.zip?rlkey=mhxmfqda6vuza3j22rxv2ngls&st=lima94gl&dl=0) to download them.
