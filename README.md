@@ -64,7 +64,7 @@ tqdm==4.66.4
             └── depth/              % Depth estimation label
   ```
 
-    * **KITTI**: Outdoor scene synthesis dataset. Click [KITTI](https://www.dropbox.com/scl/fi/ivlwrv1bl197gfqvo8puh/KITTI.zip?rlkey=gpxmf0u4k97pxw9dp1b4ve2mj&st=rzwyvh1a&dl=0) to download.
+    * **KITTI**: Outdoor scene synthesis dataset. Click [KITTI](https://www.dropbox.com/scl/fi/0xtpkoj7ynh57lrcoims9/KITTI.zip?rlkey=mfozh7w8lub16pqlxcwvywylk&st=773jb32h&dl=0) to download.
   ```
   <Nyuv2>/                          % KITTI dataset root (128 × 256 × 3)
       |
