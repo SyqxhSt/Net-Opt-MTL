@@ -84,7 +84,7 @@ tqdm==4.66.4
 
 - Single task learning baseline:
   ```
-  python Single_task.py --task=semantic / depth / ...
+  python Single_task.py --task=semantic/depth/...
   ```
   
 - Other tasks learning:
